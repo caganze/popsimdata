@@ -1,0 +1,251 @@
+spt,survey,Number/Sq. Deg,Model,Distance
+15,Grism,49.101,H=200 pc,4635.0
+16,Grism,168.58,H=200 pc,3164.0
+17,Grism,197.874,H=200 pc,2197.0
+18,Grism,132.994,H=200 pc,1569.0
+19,Grism,79.272,H=200 pc,1161.0
+20,Grism,50.329,H=200 pc,895.0
+21,Grism,34.388,H=200 pc,719.0
+22,Grism,25.054,H=200 pc,603.0
+23,Grism,19.492,H=200 pc,527.0
+24,Grism,16.512,H=200 pc,477.0
+25,Grism,15.164,H=200 pc,447.0
+26,Grism,14.797,H=200 pc,429.0
+27,Grism,14.978,H=200 pc,420.0
+28,Grism,15.446,H=200 pc,416.0
+29,Grism,15.898,H=200 pc,413.0
+30,Grism,16.329,H=200 pc,410.0
+31,Grism,16.438,H=200 pc,402.0
+32,Grism,15.854,H=200 pc,388.0
+33,Grism,14.476,H=200 pc,366.0
+34,Grism,12.47,H=200 pc,336.0
+35,Grism,9.913,H=200 pc,300.0
+36,Grism,7.6,H=200 pc,259.0
+37,Grism,5.736,H=200 pc,218.0
+38,Grism,3.988,H=200 pc,179.0
+39,Grism,2.557,H=200 pc,144.0
+15,Grism,96.319,H=300 pc,4635.0
+16,Grism,293.186,H=300 pc,3164.0
+17,Grism,311.888,H=300 pc,2197.0
+18,Grism,195.265,H=300 pc,1569.0
+19,Grism,110.65,H=300 pc,1161.0
+20,Grism,67.597,H=300 pc,895.0
+21,Grism,44.789,H=300 pc,719.0
+22,Grism,31.849,H=300 pc,603.0
+23,Grism,24.327,H=300 pc,527.0
+24,Grism,20.338,H=300 pc,477.0
+25,Grism,18.515,H=300 pc,447.0
+26,Grism,17.972,H=300 pc,429.0
+27,Grism,18.141,H=300 pc,420.0
+28,Grism,18.684,H=300 pc,416.0
+29,Grism,19.217,H=300 pc,413.0
+30,Grism,19.716,H=300 pc,410.0
+31,Grism,19.798,H=300 pc,402.0
+32,Grism,19.007,H=300 pc,388.0
+33,Grism,17.229,H=300 pc,366.0
+34,Grism,14.69,H=300 pc,336.0
+35,Grism,11.523,H=300 pc,300.0
+36,Grism,8.696,H=300 pc,259.0
+37,Grism,6.449,H=300 pc,218.0
+38,Grism,4.404,H=300 pc,179.0
+39,Grism,2.777,H=300 pc,144.0
+15,Grism,249.208,H=600 pc,4635.0
+16,Grism,625.906,H=600 pc,3164.0
+17,Grism,580.357,H=600 pc,2197.0
+18,Grism,328.81,H=600 pc,1569.0
+19,Grism,172.235,H=600 pc,1161.0
+20,Grism,98.724,H=600 pc,895.0
+21,Grism,62.201,H=600 pc,719.0
+22,Grism,42.577,H=600 pc,603.0
+23,Grism,31.636,H=600 pc,527.0
+24,Grism,25.951,H=600 pc,477.0
+25,Grism,23.336,H=600 pc,447.0
+26,Grism,22.487,H=600 pc,429.0
+27,Grism,22.612,H=600 pc,420.0
+28,Grism,23.249,H=600 pc,416.0
+29,Grism,23.888,H=600 pc,413.0
+30,Grism,24.47,H=600 pc,410.0
+31,Grism,24.49,H=600 pc,402.0
+32,Grism,23.368,H=600 pc,388.0
+33,Grism,20.979,H=600 pc,366.0
+34,Grism,17.648,H=600 pc,336.0
+35,Grism,13.612,H=600 pc,300.0
+36,Grism,10.075,H=600 pc,259.0
+37,Grism,7.318,H=600 pc,218.0
+38,Grism,4.896,H=600 pc,179.0
+39,Grism,3.028,H=600 pc,144.0
+15,Grism,26.584,Thick Disk,4635.0
+16,Grism,74.323,Thick Disk,3164.0
+17,Grism,64.189,Thick Disk,2197.0
+18,Grism,33.235,Thick Disk,1569.0
+19,Grism,16.32,Thick Disk,1161.0
+20,Grism,8.818,Thick Disk,895.0
+21,Grism,5.359,Thick Disk,719.0
+22,Grism,3.574,Thick Disk,603.0
+23,Grism,2.59,Thick Disk,527.0
+24,Grism,2.06,Thick Disk,477.0
+25,Grism,1.767,Thick Disk,447.0
+26,Grism,1.615,Thick Disk,429.0
+27,Grism,1.552,Thick Disk,420.0
+28,Grism,1.535,Thick Disk,416.0
+29,Grism,1.534,Thick Disk,413.0
+30,Grism,1.525,Thick Disk,410.0
+31,Grism,1.477,Thick Disk,402.0
+32,Grism,1.363,Thick Disk,388.0
+33,Grism,1.185,Thick Disk,366.0
+34,Grism,0.958,Thick Disk,336.0
+35,Grism,0.717,Thick Disk,300.0
+36,Grism,0.512,Thick Disk,259.0
+37,Grism,0.381,Thick Disk,218.0
+38,Grism,0.291,Thick Disk,179.0
+39,Grism,0.205,Thick Disk,144.0
+15,Grism,1.691,Halo,4635.0
+16,Grism,3.643,Halo,3164.0
+17,Grism,2.669,Halo,2197.0
+18,Grism,1.178,Halo,1569.0
+19,Grism,0.509,Halo,1161.0
+20,Grism,0.253,Halo,895.0
+21,Grism,0.145,Halo,719.0
+22,Grism,0.093,Halo,603.0
+23,Grism,0.065,Halo,527.0
+24,Grism,0.05,Halo,477.0
+25,Grism,0.042,Halo,447.0
+26,Grism,0.038,Halo,429.0
+27,Grism,0.037,Halo,420.0
+28,Grism,0.036,Halo,416.0
+29,Grism,0.036,Halo,413.0
+30,Grism,0.036,Halo,410.0
+31,Grism,0.034,Halo,402.0
+32,Grism,0.031,Halo,388.0
+33,Grism,0.027,Halo,366.0
+34,Grism,0.022,Halo,336.0
+35,Grism,0.016,Halo,300.0
+36,Grism,0.011,Halo,259.0
+37,Grism,0.008,Halo,218.0
+38,Grism,0.006,Halo,179.0
+39,Grism,0.004,Halo,144.0
+15,Imaging,69.84,H=200 pc,60799.0
+16,Imaging,367.913,H=200 pc,41840.0
+17,Imaging,754.117,H=200 pc,29277.0
+18,Imaging,936.323,H=200 pc,21058.0
+19,Imaging,1024.857,H=200 pc,15689.0
+20,Imaging,1136.123,H=200 pc,12165.0
+21,Imaging,1250.065,H=200 pc,9839.0
+22,Imaging,1331.739,H=200 pc,8298.0
+23,Imaging,1376.77,H=200 pc,7282.0
+24,Imaging,1424.607,H=200 pc,6625.0
+25,Imaging,1491.801,H=200 pc,6214.0
+26,Imaging,1574.084,H=200 pc,5973.0
+27,Imaging,1658.668,H=200 pc,5842.0
+28,Imaging,1739.462,H=200 pc,5770.0
+29,Imaging,1804.285,H=200 pc,5711.0
+30,Imaging,1876.331,H=200 pc,5621.0
+31,Imaging,1945.529,H=200 pc,5465.0
+32,Imaging,1986.462,H=200 pc,5214.0
+33,Imaging,1986.746,H=200 pc,4857.0
+34,Imaging,1942.85,H=200 pc,4401.0
+35,Imaging,1810.196,H=200 pc,3869.0
+36,Imaging,1665.385,H=200 pc,3301.0
+37,Imaging,1526.905,H=200 pc,2739.0
+38,Imaging,1292.28,H=200 pc,2221.0
+39,Imaging,1003.306,H=200 pc,1773.0
+15,Imaging,169.712,H=300 pc,60799.0
+16,Imaging,894.037,H=300 pc,41840.0
+17,Imaging,1832.516,H=300 pc,29277.0
+18,Imaging,2275.073,H=300 pc,21058.0
+19,Imaging,2486.062,H=300 pc,15689.0
+20,Imaging,2733.02,H=300 pc,12165.0
+21,Imaging,2950.949,H=300 pc,9839.0
+22,Imaging,3061.835,H=300 pc,8298.0
+23,Imaging,3079.248,H=300 pc,7282.0
+24,Imaging,3111.742,H=300 pc,6625.0
+25,Imaging,3202.058,H=300 pc,6214.0
+26,Imaging,3340.633,H=300 pc,5973.0
+27,Imaging,3497.285,H=300 pc,5842.0
+28,Imaging,3654.14,H=300 pc,5770.0
+29,Imaging,3778.653,H=300 pc,5711.0
+30,Imaging,3910.978,H=300 pc,5621.0
+31,Imaging,4020.52,H=300 pc,5465.0
+32,Imaging,4045.752,H=300 pc,5214.0
+33,Imaging,3956.47,H=300 pc,4857.0
+34,Imaging,3748.121,H=300 pc,4401.0
+35,Imaging,3350.722,H=300 pc,3869.0
+36,Imaging,2933.721,H=300 pc,3301.0
+37,Imaging,2547.614,H=300 pc,2739.0
+38,Imaging,2042.077,H=300 pc,2221.0
+39,Imaging,1508.289,H=300 pc,1773.0
+15,Imaging,724.155,H=600 pc,60799.0
+16,Imaging,3814.825,H=600 pc,41840.0
+17,Imaging,7819.129,H=600 pc,29277.0
+18,Imaging,9699.779,H=600 pc,21058.0
+19,Imaging,10520.543,H=600 pc,15689.0
+20,Imaging,11244.998,H=600 pc,12165.0
+21,Imaging,11478.286,H=600 pc,9839.0
+22,Imaging,11083.833,H=600 pc,8298.0
+23,Imaging,10406.937,H=600 pc,7282.0
+24,Imaging,9957.557,H=600 pc,6625.0
+25,Imaging,9862.49,H=600 pc,6214.0
+26,Imaging,10046.519,H=600 pc,5973.0
+27,Imaging,10377.119,H=600 pc,5842.0
+28,Imaging,10761.282,H=600 pc,5770.0
+29,Imaging,11058.761,H=600 pc,5711.0
+30,Imaging,11337.808,H=600 pc,5621.0
+31,Imaging,11459.03,H=600 pc,5465.0
+32,Imaging,11211.548,H=600 pc,5214.0
+33,Imaging,10516.37,H=600 pc,4857.0
+34,Imaging,9420.406,H=600 pc,4401.0
+35,Imaging,7865.625,H=600 pc,3869.0
+36,Imaging,6382.164,H=600 pc,3301.0
+37,Imaging,5126.544,H=600 pc,2739.0
+38,Imaging,3813.137,H=600 pc,2221.0
+39,Imaging,2628.188,H=600 pc,1773.0
+15,Imaging,107.6,Thick Disk,60799.0
+16,Imaging,689.146,Thick Disk,41840.0
+17,Imaging,1405.741,Thick Disk,29277.0
+18,Imaging,1678.69,Thick Disk,21058.0
+19,Imaging,1763.594,Thick Disk,15689.0
+20,Imaging,1778.703,Thick Disk,12165.0
+21,Imaging,1705.4,Thick Disk,9839.0
+22,Imaging,1547.889,Thick Disk,8298.0
+23,Imaging,1372.82,Thick Disk,7282.0
+24,Imaging,1243.502,Thick Disk,6625.0
+25,Imaging,1156.078,Thick Disk,6214.0
+26,Imaging,1106.511,Thick Disk,5973.0
+27,Imaging,1086.328,Thick Disk,5842.0
+28,Imaging,1080.195,Thick Disk,5770.0
+29,Imaging,1076.637,Thick Disk,5711.0
+30,Imaging,1066.435,Thick Disk,5621.0
+31,Imaging,1035.885,Thick Disk,5465.0
+32,Imaging,968.645,Thick Disk,5214.0
+33,Imaging,865.396,Thick Disk,4857.0
+34,Imaging,729.75,Thick Disk,4401.0
+35,Imaging,576.41,Thick Disk,3869.0
+36,Imaging,439.374,Thick Disk,3301.0
+37,Imaging,351.512,Thick Disk,2739.0
+38,Imaging,289.541,Thick Disk,2221.0
+39,Imaging,221.112,Thick Disk,1773.0
+15,Imaging,59.242,Halo,60799.0
+16,Imaging,305.324,Halo,41840.0
+17,Imaging,513.046,Halo,29277.0
+18,Imaging,469.572,Halo,21058.0
+19,Imaging,368.14,Halo,15689.0
+20,Imaging,284.79,Halo,12165.0
+21,Imaging,220.601,Halo,9839.0
+22,Imaging,170.588,Halo,8298.0
+23,Imaging,133.611,Halo,7282.0
+24,Imaging,110.53,Halo,6625.0
+25,Imaging,97.151,Halo,6214.0
+26,Imaging,89.849,Halo,5973.0
+27,Imaging,86.417,Halo,5842.0
+28,Imaging,85.035,Halo,5770.0
+29,Imaging,83.815,Halo,5711.0
+30,Imaging,81.706,Halo,5621.0
+31,Imaging,77.501,Halo,5465.0
+32,Imaging,69.617,Halo,5214.0
+33,Imaging,58.753,Halo,4857.0
+34,Imaging,45.976,Halo,4401.0
+35,Imaging,32.858,Halo,3869.0
+36,Imaging,22.353,Halo,3301.0
+37,Imaging,15.593,Halo,2739.0
+38,Imaging,11.368,Halo,2221.0
+39,Imaging,7.932,Halo,1773.0
